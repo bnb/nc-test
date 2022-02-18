@@ -1,0 +1,17 @@
+{
+  "name": "nc-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "output": "node index.js > output.json"
+  },
+  "keywords": [],
+  "author": "Tierney Cyren <hello@bnb.im> (https://bnb.im/)",
+  "license": "MIT",
+  "dependencies": {
+    "luxon": "^2.3.0",
+    "semver": "^7.3.5",
+    "undici": "^4.14.1"
+  }
+}

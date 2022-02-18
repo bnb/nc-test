@@ -1,0 +1,508 @@
+
+dates before call:
+ {
+  "start": "2021-10-19",
+  "maintenance": "2022-04-01",
+  "end": "2022-06-01"
+}
+
+dates in function:
+ {
+  "start": "2021-10-19",
+  "maintenance": "2022-04-01",
+  "end": "2022-06-01"
+}
+
+isoified:
+ {
+  "start": "2021-10-19T00:00:00.000-04:00",
+  "lts": null,
+  "maintenance": "2022-04-01T00:00:00.000-04:00",
+  "end": "2022-06-01T00:00:00.000-04:00"
+}
+
+dates before call:
+ {
+  "start": "2021-04-20",
+  "lts": "2021-10-26",
+  "maintenance": "2022-10-18",
+  "end": "2024-04-30"
+}
+
+dates in function:
+ {
+  "start": "2021-04-20",
+  "lts": "2021-10-26",
+  "maintenance": "2022-10-18",
+  "end": "2024-04-30"
+}
+
+isoified:
+ {
+  "start": "2021-04-20T00:00:00.000-04:00",
+  "lts": "2021-10-26T00:00:00.000-04:00",
+  "maintenance": "2022-10-18T00:00:00.000-04:00",
+  "end": "2024-04-30T00:00:00.000-04:00"
+}
+
+dates before call:
+ {
+  "start": "2020-10-20",
+  "maintenance": "2021-04-01",
+  "end": "2021-06-01"
+}
+
+dates in function:
+ {
+  "start": "2020-10-20",
+  "maintenance": "2021-04-01",
+  "end": "2021-06-01"
+}
+
+isoified:
+ {
+  "start": "2020-10-20T00:00:00.000-04:00",
+  "lts": null,
+  "maintenance": "2021-04-01T00:00:00.000-04:00",
+  "end": "2021-06-01T00:00:00.000-04:00"
+}
+
+dates before call:
+ {
+  "start": "2020-04-21",
+  "lts": "2020-10-27",
+  "maintenance": "2021-10-19",
+  "end": "2023-04-30"
+}
+
+dates in function:
+ {
+  "start": "2020-04-21",
+  "lts": "2020-10-27",
+  "maintenance": "2021-10-19",
+  "end": "2023-04-30"
+}
+
+isoified:
+ {
+  "start": "2020-04-21T00:00:00.000-04:00",
+  "lts": "2020-10-27T00:00:00.000-04:00",
+  "maintenance": "2021-10-19T00:00:00.000-04:00",
+  "end": "2023-04-30T00:00:00.000-04:00"
+}
+
+dates before call:
+ {
+  "start": "2019-10-22",
+  "maintenance": "2020-04-01",
+  "end": "2020-06-01"
+}
+
+dates in function:
+ {
+  "start": "2019-10-22",
+  "maintenance": "2020-04-01",
+  "end": "2020-06-01"
+}
+
+isoified:
+ {
+  "start": "2019-10-22T00:00:00.000-04:00",
+  "lts": null,
+  "maintenance": "2020-04-01T00:00:00.000-04:00",
+  "end": "2020-06-01T00:00:00.000-04:00"
+}
+
+dates before call:
+ {
+  "start": "2019-04-23",
+  "lts": "2019-10-21",
+  "maintenance": "2020-11-30",
+  "end": "2022-04-30"
+}
+
+dates in function:
+ {
+  "start": "2019-04-23",
+  "lts": "2019-10-21",
+  "maintenance": "2020-11-30",
+  "end": "2022-04-30"
+}
+
+isoified:
+ {
+  "start": "2019-04-23T00:00:00.000-04:00",
+  "lts": "2019-10-21T00:00:00.000-04:00",
+  "maintenance": "2020-11-30T00:00:00.000-05:00",
+  "end": "2022-04-30T00:00:00.000-04:00"
+}
+
+dates before call:
+ {
+  "start": "2018-10-23",
+  "maintenance": "2019-04-22",
+  "end": "2019-06-01"
+}
+
+dates in function:
+ {
+  "start": "2018-10-23",
+  "maintenance": "2019-04-22",
+  "end": "2019-06-01"
+}
+
+isoified:
+ {
+  "start": "2018-10-23T00:00:00.000-04:00",
+  "lts": null,
+  "maintenance": "2019-04-22T00:00:00.000-04:00",
+  "end": "2019-06-01T00:00:00.000-04:00"
+}
+
+dates before call:
+ {
+  "start": "2018-04-24",
+  "lts": "2018-10-30",
+  "maintenance": "2020-05-19",
+  "end": "2021-04-30"
+}
+
+dates in function:
+ {
+  "start": "2018-04-24",
+  "lts": "2018-10-30",
+  "maintenance": "2020-05-19",
+  "end": "2021-04-30"
+}
+
+isoified:
+ {
+  "start": "2018-04-24T00:00:00.000-04:00",
+  "lts": "2018-10-30T00:00:00.000-04:00",
+  "maintenance": "2020-05-19T00:00:00.000-04:00",
+  "end": "2021-04-30T00:00:00.000-04:00"
+}
+
+dates before call:
+ {
+  "start": "2017-10-01",
+  "maintenance": "2018-04-01",
+  "end": "2018-06-30"
+}
+
+dates in function:
+ {
+  "start": "2017-10-01",
+  "maintenance": "2018-04-01",
+  "end": "2018-06-30"
+}
+
+isoified:
+ {
+  "start": "2017-10-01T00:00:00.000-04:00",
+  "lts": null,
+  "maintenance": "2018-04-01T00:00:00.000-04:00",
+  "end": "2018-06-30T00:00:00.000-04:00"
+}
+
+dates before call:
+ {
+  "start": "2017-05-30",
+  "lts": "2017-10-31",
+  "maintenance": "2019-01-01",
+  "end": "2019-12-31"
+}
+
+dates in function:
+ {
+  "start": "2017-05-30",
+  "lts": "2017-10-31",
+  "maintenance": "2019-01-01",
+  "end": "2019-12-31"
+}
+
+isoified:
+ {
+  "start": "2017-05-30T00:00:00.000-04:00",
+  "lts": "2017-10-31T00:00:00.000-04:00",
+  "maintenance": "2019-01-01T00:00:00.000-05:00",
+  "end": "2019-12-31T00:00:00.000-05:00"
+}
+
+dates before call:
+ {
+  "start": "2016-10-25",
+  "maintenance": "2017-04-30",
+  "end": "2017-06-30"
+}
+
+dates in function:
+ {
+  "start": "2016-10-25",
+  "maintenance": "2017-04-30",
+  "end": "2017-06-30"
+}
+
+isoified:
+ {
+  "start": "2016-10-25T00:00:00.000-04:00",
+  "lts": null,
+  "maintenance": "2017-04-30T00:00:00.000-04:00",
+  "end": "2017-06-30T00:00:00.000-04:00"
+}
+
+dates before call:
+ {
+  "start": "2016-04-26",
+  "lts": "2016-10-18",
+  "maintenance": "2018-04-30",
+  "end": "2019-04-30"
+}
+
+dates in function:
+ {
+  "start": "2016-04-26",
+  "lts": "2016-10-18",
+  "maintenance": "2018-04-30",
+  "end": "2019-04-30"
+}
+
+isoified:
+ {
+  "start": "2016-04-26T00:00:00.000-04:00",
+  "lts": "2016-10-18T00:00:00.000-04:00",
+  "maintenance": "2018-04-30T00:00:00.000-04:00",
+  "end": "2019-04-30T00:00:00.000-04:00"
+}
+
+dates before call:
+ {
+  "start": "2015-10-29",
+  "maintenance": "2016-04-30",
+  "end": "2016-06-30"
+}
+
+dates in function:
+ {
+  "start": "2015-10-29",
+  "maintenance": "2016-04-30",
+  "end": "2016-06-30"
+}
+
+isoified:
+ {
+  "start": "2015-10-29T00:00:00.000-04:00",
+  "lts": null,
+  "maintenance": "2016-04-30T00:00:00.000-04:00",
+  "end": "2016-06-30T00:00:00.000-04:00"
+}
+
+dates before call:
+ {
+  "start": "2015-09-08",
+  "lts": "2015-10-12",
+  "maintenance": "2017-04-01",
+  "end": "2018-04-30"
+}
+
+dates in function:
+ {
+  "start": "2015-09-08",
+  "lts": "2015-10-12",
+  "maintenance": "2017-04-01",
+  "end": "2018-04-30"
+}
+
+isoified:
+ {
+  "start": "2015-09-08T00:00:00.000-04:00",
+  "lts": "2015-10-12T00:00:00.000-04:00",
+  "maintenance": "2017-04-01T00:00:00.000-04:00",
+  "end": "2018-04-30T00:00:00.000-04:00"
+}
+
+dates before call:
+ {
+  "start": "2015-02-06",
+  "end": "2016-12-31"
+}
+
+dates in function:
+ {
+  "start": "2015-02-06",
+  "end": "2016-12-31"
+}
+
+isoified:
+ {
+  "start": "2015-02-06T00:00:00.000-05:00",
+  "lts": null,
+  "maintenance": null,
+  "end": "2016-12-31T00:00:00.000-05:00"
+}
+
+dates before call:
+ {}
+
+dates in function:
+ {}
+
+isoified:
+ {
+  "start": null,
+  "lts": null,
+  "maintenance": null,
+  "end": null
+}
+
+dates before call:
+ {
+  "start": "2013-03-11",
+  "end": "2016-10-31"
+}
+
+dates in function:
+ {
+  "start": "2013-03-11",
+  "end": "2016-10-31"
+}
+
+isoified:
+ {
+  "start": "2013-03-11T00:00:00.000-04:00",
+  "lts": null,
+  "maintenance": null,
+  "end": "2016-10-31T00:00:00.000-04:00"
+}
+
+dates before call:
+ {}
+
+dates in function:
+ {}
+
+isoified:
+ {
+  "start": null,
+  "lts": null,
+  "maintenance": null,
+  "end": null
+}
+
+dates before call:
+ {
+  "start": "2012-06-25",
+  "end": "2014-07-31"
+}
+
+dates in function:
+ {
+  "start": "2012-06-25",
+  "end": "2014-07-31"
+}
+
+isoified:
+ {
+  "start": "2012-06-25T00:00:00.000-04:00",
+  "lts": null,
+  "maintenance": null,
+  "end": "2014-07-31T00:00:00.000-04:00"
+}
+
+dates before call:
+ {}
+
+dates in function:
+ {}
+
+isoified:
+ {
+  "start": null,
+  "lts": null,
+  "maintenance": null,
+  "end": null
+}
+
+dates before call:
+ {}
+
+dates in function:
+ {}
+
+isoified:
+ {
+  "start": null,
+  "lts": null,
+  "maintenance": null,
+  "end": null
+}
+
+dates before call:
+ {}
+
+dates in function:
+ {}
+
+isoified:
+ {
+  "start": null,
+  "lts": null,
+  "maintenance": null,
+  "end": null
+}
+
+dates before call:
+ {}
+
+dates in function:
+ {}
+
+isoified:
+ {
+  "start": null,
+  "lts": null,
+  "maintenance": null,
+  "end": null
+}
+
+dates before call:
+ {}
+
+dates in function:
+ {}
+
+isoified:
+ {
+  "start": null,
+  "lts": null,
+  "maintenance": null,
+  "end": null
+}
+
+dates before call:
+ {}
+
+dates in function:
+ {}
+
+isoified:
+ {
+  "start": null,
+  "lts": null,
+  "maintenance": null,
+  "end": null
+}
+
+dates before call:
+ {}
+
+dates in function:
+ {}
+
+isoified:
+ {
+  "start": null,
+  "lts": null,
+  "maintenance": null,
+  "end": null
+}
