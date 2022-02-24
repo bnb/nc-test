@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "output": "node index.js > output.json"
+    "output": "node index.js > output.txt"
   },
   "keywords": [],
   "author": "Tierney Cyren <hello@bnb.im> (https://bnb.im/)",
